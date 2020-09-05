@@ -1,0 +1,1 @@
+alter table `characters` add `rebirths` int(11) NOT NULL DEFAULT '0';
